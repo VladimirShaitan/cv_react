@@ -1,0 +1,32 @@
+{
+  "name": "Shaitan Vladimir",
+  "fullName":"Shaitan Vladimir Sergeevich",
+  "birthDate": "February 01, 1997",
+  "bio": "I always worked with the web one way or another, in different companies I held such positions: Front-end Dev., Full-stack Dev., Team Lead (JS Dev.). I also taught teens a Front-end course.  I started working in IT at age 18.",
+  "currentPosition": "Freelancer, Full Stack Developer",
+  "website": "vs-dev.info",
+  "email": "shaitan.vlaidmir@gmail.com",
+  "positions": ["Full Stack Developer", "Front-end Trainer"],
+  "socials": [
+    {
+      "name": "facebook",
+      "href": "https://www.facebook.com/vladimir.shaitan"
+    },
+    {
+      "name": "twitter",
+      "href": "https://twitter.com/VovaShaitan"
+    },
+    {
+      "name": "instagram",
+      "href": "https://www.instagram.com/vlad.sha/"
+    },
+    {
+      "name": "linkedin",
+      "href": "https://www.linkedin.com/in/vladimir-shaitan/"
+    },
+    {
+      "name": "github",
+      "href": "https://github.com/VladimirShaitan"
+    }
+  ]
+}

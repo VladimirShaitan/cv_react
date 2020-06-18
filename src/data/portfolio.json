@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Haute Artisane",
+    "subName": "Website creation",
+    "img": "https://vs-dev.info/assets/images/portfolio/hap.jpg",
+    "siteUrl": "https://hauteartisane.com/",
+    "description": ""
+  },
+  {
+    "name": "La Bonne Franquette",
+    "subName": "Website creation",
+    "img": "https://vs-dev.info/assets/images/portfolio/lbf.jpg",
+    "siteUrl": "http://labonnefranquette.ch/",
+    "description": ""
+  },
+  {
+    "name": "Baggilight",
+    "subName": "Backend coding",
+    "img": "https://vs-dev.info/assets/images/portfolio/bl.jpg",
+    "siteUrl": "https://baggilight.fr/",
+    "description": ""
+  },
+  {
+    "name": "Avis.help",
+    "subName": "SPA's creation",
+    "img": "https://vs-dev.info/assets/images/portfolio/avis.jpg",
+    "siteUrl": "https://Avis.help/",
+    "description": ""
+  },
+  {
+    "name": "SOURCEFURNITURE ",
+    "subName": "Website creation",
+    "img": "https://vs-dev.info/assets/images/portfolio/sf.jpg",
+    "siteUrl": "https://sourcefurniture.vs-dev.info/",
+    "description": ""
+  },
+  {
+    "name": "Envie",
+    "subName": "Website creation",
+    "img": "https://vs-dev.info/assets/images/portfolio/envie.jpg",
+    "siteUrl": "http://envie.vs-dev.info/",
+    "description": ""
+  }
+]

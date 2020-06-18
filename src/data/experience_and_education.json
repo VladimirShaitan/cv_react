@@ -1,0 +1,62 @@
+{
+  "experience": [
+    {
+      "name": "PRIME DESIGN STUDIO",
+      "position": "Front-end Developer",
+      "start": "July 2015",
+      "end": "April 2016",
+      "description": "Oh, that's my first job, I was more like developing layouts using HTML/CSS but after I worked with CMS systems (Joomla, ModX) and PHP."
+    },
+    {
+      "name": "BeInWeb digital agency",
+      "position": "Front-end Developer",
+      "start": "April 2016",
+      "end": "September 2016",
+      "description": "I was creating a web-stores, websites, layouts and all kind of things"
+    },
+    {
+      "name": "HTML Studio France",
+      "position": "Full stack Developer",
+      "start": "February 2017",
+      "end": "January 2019",
+      "description": "Creating Wordpress sites (themes, plugins, etc.), Freelance platform, shopping sites.\nI was also working with different API's (Maps, Payments, Post, Email, Newsletter, etc.)"
+    },
+    {
+      "name": "Ampli teen accelerator",
+      "position": "Front-end Trainer",
+      "start": "January 2018",
+      "end": "February 2019",
+      "description": "I was preparing young students for real-life of Web-development :0"
+    },
+    {
+      "name": "Avis.help",
+      "position": "JavaScript Developer | Team Lead",
+      "start": "February 2019",
+      "end": "September 2019",
+      "description": "I was developing all web interfaces, using JS, PHP, SQL, VUE.js, HTML, CSS, WebSockets, Ajax, Git, etc.\nAlso, I was leading a development team."
+    },
+    {
+      "name": "Freelance Web Development",
+      "position": "Full-stack Developer (JS, PHP)",
+      "start": "April 2016",
+      "end": "Present",
+      "description": "Creating a web-application, web-stores, web-sites and things like that."
+    }
+  ],
+  "education": [
+    {
+      "name": "Odessa National College of Economy, Law, hotel and restaurant business",
+      "degree": "Specialist Degree",
+      "start": "September 2012",
+      "end": "September 2015",
+      "description": "Higher educational institution \"Odessa College economics, law, hotel and restaurant business\" - is one of the oldest educational institutions of Ukraine."
+    },
+    {
+      "name": "Chkalov foreign language courses",
+      "degree": "Upper-intermediate",
+      "start": "September 2015",
+      "end": "September 2016",
+      "description": "Foreign language courses"
+    }
+  ]
+}

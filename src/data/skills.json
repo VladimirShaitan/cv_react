@@ -1,0 +1,77 @@
+[
+  {
+    "name": "HTML",
+    "percentage": "100%",
+    "description": ""
+  },
+  {
+    "name": "CSS",
+    "percentage": "100%",
+    "description": ""
+  },
+  {
+    "name": "JavaScript",
+    "percentage": "100%",
+    "description": ""
+  },
+  {
+    "name": "Bootstrap",
+    "percentage": "100%",
+    "description": ""
+  },
+  {
+    "name": "Vue.js",
+    "percentage": "100%",
+    "description": ""
+  },
+  {
+    "name": "Angular.js",
+    "percentage": "20%",
+    "description": ""
+  },
+  {
+    "name": "jQuery",
+    "percentage": "100%",
+    "description": ""
+  },
+  {
+    "name": "PHP",
+    "percentage": "100%",
+    "description": ""
+  },
+  {
+    "name": "Codeigniter",
+    "percentage": "100%",
+    "description": ""
+  },
+  {
+    "name": "OOP",
+    "percentage": "100%",
+    "description": ""
+  },
+  {
+    "name": "SQL",
+    "percentage": "100%",
+    "description": ""
+  },
+  {
+    "name": "Bash",
+    "percentage": "100%",
+    "description": ""
+  },
+  {
+    "name": "Wordpress",
+    "percentage": "100%",
+    "description": ""
+  },
+  {
+    "name": "Opencart",
+    "percentage": "100%",
+    "description": ""
+  },
+  {
+    "name": "Photoshop",
+    "percentage": "100%",
+    "description": ""
+  }
+]

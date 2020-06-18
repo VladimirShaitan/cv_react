@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Front-end Development",
+    "icon": "icon-paint-brush",
+    "description": "Is the practice of converting data to a graphical interface, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that data."
+  },
+  {
+    "name": "Consultancy",
+    "icon": "icon-chat",
+    "description": "information technology consulting"
+  },
+  {
+    "name": "Back-end Development",
+    "icon": "icon-window",
+    "description": "Backend Development generally involves developing the core business logic of your application."
+  }
+]
